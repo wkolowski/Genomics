@@ -1,0 +1,6 @@
+*.csv
+*.csi
+*.vcf
+*.vcf.gz
+*.txt
+*.txt.gz
